@@ -1,1 +1,1 @@
-print("esta es una nueva actualizacion en nuestro repositorio para verificar la insercion y edicion de datos")
+print("esta es una nueva actualizacion en nuestro repositorio para verificar la insercion ")
